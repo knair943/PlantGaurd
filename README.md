@@ -8,7 +8,7 @@ This repo contains:
 	•	Model performance metrics and visualizations (accuracy, loss curves, confusion matrix)
 
 Model Features
-	•	Input: RGB images of plant leaves (e.g., 224x224 resolution)
+	•	Input: RGB images of plant leaves (e.g., 96x96 resolution)
 	•	Architecture: Custom CNN 
 	•	Output: Probability distribution over multiple disease classes
 	•	Optimized using cross-entropy loss and Adam optimizer
